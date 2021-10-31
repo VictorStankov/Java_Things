@@ -1,4 +1,4 @@
-package firstmockexam;
+package mockfirstexam;
 
 public class Concert extends Event {
     String starName;

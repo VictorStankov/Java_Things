@@ -1,4 +1,4 @@
-package firstmockexam;
+package mockfirstexam;
 
 public class Event {
     String place, date, startHour;

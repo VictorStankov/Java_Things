@@ -1,4 +1,4 @@
-package firstmockexam;
+package mockfirstexam;
 
 import java.io.IOException;
 

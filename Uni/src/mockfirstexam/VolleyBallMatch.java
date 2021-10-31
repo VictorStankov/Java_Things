@@ -1,4 +1,4 @@
-package firstmockexam;
+package mockfirstexam;
 
 public class VolleyBallMatch extends Event {
     String firstTeam, secondTeam;

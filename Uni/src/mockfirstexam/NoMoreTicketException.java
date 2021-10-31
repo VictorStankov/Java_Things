@@ -1,4 +1,4 @@
-package firstmockexam;
+package mockfirstexam;
 
 public class NoMoreTicketException extends Exception {
     private String message;
